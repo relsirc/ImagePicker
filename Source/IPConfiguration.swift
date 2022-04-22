@@ -30,8 +30,8 @@ import UIKit
   @objc public var noImagesTitle = "No images available"
   @objc public var noCameraTitle = "Camera is not available"
   @objc public var settingsTitle = "Settings"
-  @objc public var requestPermissionTitle = "Permission denied"
-  @objc public var requestPermissionMessage = "Please, allow the application to access to your photo library."
+  @objc public var requestPermissionTitle = "写真へのアクセスが許可されていません。"
+  @objc public var requestPermissionMessage = "設定から「すべての写真へのアクセスを許可」を選んでください。"
 
   // MARK: Dimensions
 
